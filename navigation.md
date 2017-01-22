@@ -18,6 +18,8 @@
 [gimmick:theme](simplex)
 [gimmick:ForkMeOnGitHub (color: 'darkblue')](http://www.github.com/barathvk/cs)
 [Home](index.md)
+[Concepts](pages/concepts.md)
 [Primitives]()
 
   * [Strings](pages/strings.md)
+  * [Numbers](pages/numbers.md)
