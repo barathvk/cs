@@ -1,0 +1,5 @@
+deployment:
+  production:
+    branch: master
+    commands:
+      - surge --domain cs.barath.ga --project .
