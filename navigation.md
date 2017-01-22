@@ -15,6 +15,9 @@
     font-weight: bold;
   }
 </style>
-[gimmick:theme (inverse: true)](flatly)
+[gimmick:theme](simplex)
 [gimmick:ForkMeOnGitHub (color: 'darkblue')](http://www.github.com/barathvk/cs)
 [Home](index.md)
+[Primitives]()
+
+  * [Strings](pages/strings.md)
